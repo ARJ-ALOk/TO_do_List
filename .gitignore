@@ -1,0 +1,15 @@
+# Ignore the database (your personal tasks)
+ultimate_tasks.json
+
+# Ignore compiled python files
+__pycache__/
+*.py[cod]
+
+# Ignore build folders if you compiled to exe
+build/
+dist/
+*.spec
+
+# Ignore virtual environments (if you used one)
+venv/
+env/
