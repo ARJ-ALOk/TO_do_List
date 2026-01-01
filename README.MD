@@ -2,7 +2,7 @@
 
 A robust, feature-rich desktop To-Do application built with Python and Tkinter. This application goes beyond simple lists by integrating gamification (streaks), persistent data storage, and smart notifications.
 
-![App Screenshot](\TO_DO.png)
+![App Screenshot](https://github.com/ARJ-ALOk/TO_do_List/blob/main/TO_DO.png)
 
 ## 🚀 Features
 
