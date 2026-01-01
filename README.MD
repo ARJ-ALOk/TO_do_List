@@ -3,7 +3,6 @@
 A robust, feature-rich desktop To-Do application built with Python and Tkinter. This application goes beyond simple lists by integrating gamification (streaks), persistent data storage, and smart notifications.
 
 ![App Screenshot](\TO_DO.png)
-*(You can replace this link with a real screenshot later)*
 
 ## 🚀 Features
 
@@ -30,8 +29,8 @@ A robust, feature-rich desktop To-Do application built with Python and Tkinter. 
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/ARJ-ALOk/TO_Do_List.git](https://github.com/ARJ-ALOk/TO_Do_List.git)
-    cd TO_Do_List
+    git clone [https://github.com/ARJ-ALOk/TO_do_List.git](https://github.com/ARJ-ALOk/TO_do_List.git)
+    cd TO_do_List
     ```
 
 2.  **Install Dependencies**
